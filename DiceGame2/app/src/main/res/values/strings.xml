@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Dice Game 2</string>
+    <string name="rolls">roll</string>
+    <string name="let_roll">Let roll</string>
+    <string name="score">Score</string>
+    <string name="Throw">Throw</string>
+    <string name="_1">1</string>
+    <string name="_2">1</string>
+    <string name="Score">Score</string>
+    <string name="OK">OK</string>
+    <string name="reroll">Reroll</string>
+    <string name="Reroll">Reroll</string>
+    <string name="button">Button</string>
+    <string name="help">Help</string>
+    <string name="reroll_all">Reroll All</string>
+    <string name="All">All</string>
+    <string name="Reset">Reset</string>
+    <string name="string_2">0</string>
+    <string name="string_1">0</string>
+    <string name="you_win">You win!</string>
+    <string name="you_lose">You lose</string>
+    <string name="_101">101</string>
+    <string name="HWin">0</string>
+    <string name="CWin">0</string>
+    <string name="h">H:</string>
+    <string name="ok">OK</string>
+    <string name="Enter">Enter Maximum score to win game(higher than 50 or lower than 300</string>
+    <string name="hard_mode">Hard Mode</string>
+    <string name="hard">hard</string>
+    <string name="Dificulty">hard</string>
+    <string name="Hard">Harded</string>
+    <string name="Easy">Easy</string>
+
+</resources>
